@@ -15,17 +15,6 @@ A responsive front-end Spotify clone built using HTML and CSS. This project repl
 * **HTML5:** For page structure and semantic markup.
 * **CSS3:** For dark-theme styling, hover effects, layouts, and custom scrollbars.
 
-## 📂 Project Structure
-```text
-spotify/
-│
-├── index.html                  # Main HTML file
-├── style.css                   # Custom CSS styling
-│
-└── full stack/
-    └── assets/
-        └── front end/          # Folder containing all project images and icons
-```
 
 ## 🚀 How to Run locally
 1. Download or clone this repository.
